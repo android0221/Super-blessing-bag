@@ -1,0 +1,27 @@
+{
+  "data":{
+  "url": "google.coom",
+  "clock": 100,
+  "nation": "br",
+  "data4": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "data5": {
+    "key1": "value1",
+    "key2": "value2"
+  },
+  "data6": null,
+  "data7": {
+    "nested_key": {
+      "nested_value": "Nested data"
+    }
+  },
+  "data8": 3.14159,
+  "data9": [],
+  "data10": {}
+}
+}
